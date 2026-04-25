@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/AdminOnlyFilter.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/RfidServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/dashboard.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/AttendanceServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/DeleteCardServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/registerCard.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/RegisterCardServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/index.html</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/login.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/LoginServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/AuthFilter.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/LogoutServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/ApiKeyFilter.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/StudentReportServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/ExportCsvServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/HSSFWorkbook.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/RfidWebSocket.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/correctionRequest.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/approvalPanel.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/correctionLog.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/rfid/servlets/SubmitCorrectionServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/rfid/servlets/ApproveCorrectionServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/util/DBUtil.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/util/EmailUtil.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/reports.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/SaveSnapshotServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/assignTask.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/AssignTaskServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/web/employeeTasks.jsp</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/rfid/CompleteTaskServlet.java</file>
+            <file>file:/C:/Users/nikhil/Desktop/JEE%20PR%204181/RfidwebApp1/src/java/com/example/util/EmailClient.java</file>
+        </group>
+    </open-files>
+</project-private>
