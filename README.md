@@ -41,4 +41,4 @@ RFID-Attendance-System/
 Nikhil Maurya  
 BSc IT Student  
 RFID Attendance System Project
-Project updated on 14 June 2026
+Attendance system improvement
